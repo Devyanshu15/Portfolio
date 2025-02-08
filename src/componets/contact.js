@@ -37,8 +37,8 @@ function Contact() {
 
       <div className='share'>
       <a href='https://github.com/Devyanshu15/' className='fab fa-github' target='blank' rel='noreferrer'></a>
-      <a href='https://www.linkedin.com/in/devyanshu-garg-a0878322a?' className='fab fa-twitter' target='blank'  rel='noreferrer'></a>
-      <a href='#' className='fab fa-linkedin' target='blank'  rel='noreferrer'></a>
+      <a href='#' className='fab fa-twitter' target='blank'  rel='noreferrer'></a>
+      <a href='https://www.linkedin.com/in/devyanshu-garg-a0878322a?' className='fab fa-linkedin' target='blank'  rel='noreferrer'></a>
 
       </div>
      </div>
