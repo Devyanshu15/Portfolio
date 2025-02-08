@@ -26,11 +26,11 @@ function Project() {
             <div className='p-box'>
             <div className='overlay'>
                 <center>
-                <h3>ChatGpt</h3> 
+                <h3>ChatGpt Clone</h3> 
                 </center>
                 <p> Your Smart AI Companion - Instant Answers, Anytime </p>
                   <center>
-                  <a href='https://wearit-eosin.vercel.app/'  target='blank'>View Project</a>
+                  <a href='https://chat-gpt-clone-opal-seven.vercel.app/'  target='blank'>View Project</a>
                   </center>  
               </div>
             <img  src={gptclone}></img>
@@ -44,7 +44,7 @@ function Project() {
                 </center>
                 <p></p>
                   <center>
-                  <a href='#'>Soon !</a>
+                  <a href='#'>On Development !</a>
                   </center>
                  
 
